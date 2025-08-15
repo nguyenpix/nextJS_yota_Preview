@@ -13,6 +13,11 @@ const resources = {
       products: 'Products',
       login: 'Login',
       logout: 'Logout'
+    },
+    nav: {
+      courses: 'Courses',
+      onlineCourses: 'Online Courses',
+      foundation200h: '200H Foundation Yoga Teacher Training'
     }
   },
   vi: {
@@ -22,6 +27,11 @@ const resources = {
       products: 'Sản phẩm',
       login: 'Đăng nhập',
       logout: 'Đăng xuất'
+    },
+    nav: {
+      courses: 'Khóa học',
+      onlineCourses: 'Khóa học online',
+      foundation200h: 'Khóa đào tạo HLV Yoga quốc tế 200H'
     }
   }
 };
